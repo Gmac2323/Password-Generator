@@ -6,7 +6,8 @@ The user will be prompted to choose from the following password criteria:
 
 Ability to select the number of characters using slider:
 
-Character type:
+#Character type:
+
 
 Symbols
 Numbers
@@ -15,10 +16,14 @@ Uppercase letters
 Option to copy the password to their clipboard.
 
 
-Technologies Used
+#Technologies Used
+
 Javascript
 CSS
 HTML
-Requirement 
+
+
+#Professional use
+
 For companies that handle large amounts of sensitive data, (Finance, accounting, insurance, tech, data science. Security has been a focal point for many companies who are worried about security threats. 
 An application that can generate strong passwords quickly and effortlessly saves employees time and ensures secure access to data.
